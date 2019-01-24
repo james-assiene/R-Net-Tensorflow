@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnet-577"
+all_model_checkpoint_paths: "rnet-577"
